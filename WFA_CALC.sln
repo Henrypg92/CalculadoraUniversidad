@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Forms", "Forms", "{8ADC71FF-152C-440D-80B0-7D2EE33B998E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_PRINCIPAL", "WF_PRINCIPAL\WF_PRINCIPAL.csproj", "{575FD7D8-8FDC-48C9-9055-2BB27881A214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{575FD7D8-8FDC-48C9-9055-2BB27881A214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575FD7D8-8FDC-48C9-9055-2BB27881A214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575FD7D8-8FDC-48C9-9055-2BB27881A214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575FD7D8-8FDC-48C9-9055-2BB27881A214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{575FD7D8-8FDC-48C9-9055-2BB27881A214} = {8ADC71FF-152C-440D-80B0-7D2EE33B998E}
+	EndGlobalSection
+EndGlobal

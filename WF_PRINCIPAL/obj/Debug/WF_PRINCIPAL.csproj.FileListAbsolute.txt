@@ -1,0 +1,19 @@
+c:\Users\henry perez\documents\visual studio 2015\Projects\WFA_CALC\WF_PRINCIPAL\bin\Debug\WF_PRINCIPAL.exe.config
+c:\Users\henry perez\documents\visual studio 2015\Projects\WFA_CALC\WF_PRINCIPAL\bin\Debug\WF_PRINCIPAL.exe
+c:\Users\henry perez\documents\visual studio 2015\Projects\WFA_CALC\WF_PRINCIPAL\bin\Debug\WF_PRINCIPAL.pdb
+c:\Users\henry perez\documents\visual studio 2015\Projects\WFA_CALC\WF_PRINCIPAL\obj\Debug\WF_PRINCIPAL.Properties.Resources.resources
+c:\Users\henry perez\documents\visual studio 2015\Projects\WFA_CALC\WF_PRINCIPAL\obj\Debug\WF_PRINCIPAL.WF_PRINCIPAL.resources
+c:\Users\henry perez\documents\visual studio 2015\Projects\WFA_CALC\WF_PRINCIPAL\obj\Debug\WF_PRINCIPAL.csproj.GenerateResource.Cache
+c:\Users\henry perez\documents\visual studio 2015\Projects\WFA_CALC\WF_PRINCIPAL\obj\Debug\WF_PRINCIPAL.exe
+c:\Users\henry perez\documents\visual studio 2015\Projects\WFA_CALC\WF_PRINCIPAL\obj\Debug\WF_PRINCIPAL.pdb
+c:\Users\henry perez\documents\visual studio 2015\Projects\WFA_CALC\WF_PRINCIPAL\obj\Debug\WF_PRINCIPAL.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Downloads\WF_PRINCIPAL\bin\Debug\WF_PRINCIPAL.exe.config
+C:\Users\Henry\Downloads\WF_PRINCIPAL\bin\Debug\WF_PRINCIPAL.exe
+C:\Users\Henry\Downloads\WF_PRINCIPAL\bin\Debug\WF_PRINCIPAL.pdb
+C:\Users\Henry\Downloads\WF_PRINCIPAL\obj\Debug\WF_PRINCIPAL.csproj.AssemblyReference.cache
+C:\Users\Henry\Downloads\WF_PRINCIPAL\obj\Debug\WF_PRINCIPAL.Properties.Resources.resources
+C:\Users\Henry\Downloads\WF_PRINCIPAL\obj\Debug\WF_PRINCIPAL.WF_PRINCIPAL.resources
+C:\Users\Henry\Downloads\WF_PRINCIPAL\obj\Debug\WF_PRINCIPAL.csproj.GenerateResource.cache
+C:\Users\Henry\Downloads\WF_PRINCIPAL\obj\Debug\WF_PRINCIPAL.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Downloads\WF_PRINCIPAL\obj\Debug\WF_PRINCIPAL.exe
+C:\Users\Henry\Downloads\WF_PRINCIPAL\obj\Debug\WF_PRINCIPAL.pdb
