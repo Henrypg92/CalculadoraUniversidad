@@ -1,28 +1,29 @@
-# Calculadora Básica en Windows Forms
+# Calculadora Simple en C# con Windows Forms
 
-Este proyecto es una calculadora básica construida con Windows Forms en C#. Permite realizar operaciones matemáticas simples como suma, resta, multiplicación y división.
+Esta es una aplicación simple de calculadora implementada en C# utilizando Windows Forms. Permite realizar operaciones básicas de suma, resta, multiplicación y división, así como imprimir un historial de operaciones y limpiar la pantalla.
 
 ## Características
 
-- Interfaz gráfica de usuario sencilla y fácil de usar.
-- Capacidad para realizar operaciones matemáticas básicas.
-- Validación de entrada para asegurar que solo se ingresen números y operadores válidos.
-
-## Requisitos
-
-Para ejecutar este programa, necesitarás:
-
-- Microsoft .NET Framework
-- Windows OS
+- Interfaz gráfica de usuario (GUI) simple.
+- Operaciones básicas: suma, resta, multiplicación y división.
+- Historial de operaciones.
+- Impresión del historial en un archivo de texto.
 
 ## Uso
 
-Para usar la calculadora, simplemente ejecuta el programa y utiliza la interfaz gráfica para ingresar números y seleccionar operaciones.
+1. Descarga o clona el repositorio.
+2. Abre el proyecto en Visual Studio u otro entorno de desarrollo compatible con C#.
+3. Compila y ejecuta la aplicación.
+
+## Capturas de Pantalla
+
+(Inserta capturas de pantalla si es necesario)
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, por favor haz un fork del repositorio y envía un pull request.
+¡Contribuciones son bienvenidas! Si encuentras errores o mejoras, no dudes en abrir un problema o enviar un pull request.
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - vea el archivo `LICENSE` para más detalles.
+Este proyecto está bajo la licencia [MIT](LICENSE).
+
