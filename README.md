@@ -1,28 +1,28 @@
-# Calculadora Simple en C#
+# Calculadora Básica en Windows Forms
 
-Este proyecto es una calculadora simple implementada en C# con Windows Forms. La aplicación permite realizar operaciones básicas de suma, resta, multiplicación y división.
+Este proyecto es una calculadora básica construida con Windows Forms en C#. Permite realizar operaciones matemáticas simples como suma, resta, multiplicación y división.
 
 ## Características
 
-- Interfaz gráfica simple utilizando Windows Forms.
-- Funcionalidad para realizar operaciones aritméticas básicas.
-- Capacidad para imprimir la última operación en un archivo de texto.
+- Interfaz gráfica de usuario sencilla y fácil de usar.
+- Capacidad para realizar operaciones matemáticas básicas.
+- Validación de entrada para asegurar que solo se ingresen números y operadores válidos.
+
+## Requisitos
+
+Para ejecutar este programa, necesitarás:
+
+- Microsoft .NET Framework
+- Windows OS
 
 ## Uso
 
-1. Descarga el código fuente o clona el repositorio.
-2. Abre el proyecto en tu entorno de desarrollo C# (por ejemplo, Visual Studio).
-3. Compila y ejecuta la aplicación.
-4. Utiliza los botones numéricos y de operación para realizar cálculos.
-
-## Funcionalidades Adicionales
-
-- **Imprimir Historial:** La calculadora puede imprimir la última operación en un archivo de texto llamado "Historial.txt" y abrirlo automáticamente.
+Para usar la calculadora, simplemente ejecuta el programa y utiliza la interfaz gráfica para ingresar números y seleccionar operaciones.
 
 ## Contribuciones
 
-Siéntete libre de contribuir a este proyecto enviando pull requests. Mejoras en la interfaz, nuevas funciones o correcciones son bienvenidas.
+Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, por favor haz un fork del repositorio y envía un pull request.
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT - vea el archivo `LICENSE` para más detalles.
